@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<declare-styleable name="Back">-->
+        <!--<attr name="Text" format="string" />-->
+        <!--<attr name="TextSize" format="integer" />-->
+        <!--<attr name="TextColor" format="color" />-->
+        <!--<attr name="BackGround" format="color" />-->
+        <!--<attr name="psdType" format="enum">-->
+            <!--<enum name="weChat" value="0" />-->
+            <!--<enum name="bottomLine" value="1" />-->
+        <!--</attr>-->
+    <!--</declare-styleable>-->
+    <!--<declare-styleable name="Title">-->
+
+        <!--<attr name="Text" format="string" />-->
+        <!--<attr name="TextSize" format="integer" />-->
+
+        <!--<attr name="TextColor" format="color" />-->
+        <!--<attr name="BackGround" format="color" />-->
+        <!--<attr name="psdType" format="enum">-->
+            <!--<enum name="weChat" value="0" />-->
+            <!--<enum name="bottomLine" value="1" />-->
+        <!--</attr>-->
+    <!--</declare-styleable>-->
+    <!--<declare-styleable name="More">-->
+        <!--<attr name="Text" format="string" />-->
+        <!--<attr name="TextSize" format="integer" />-->
+        <!--<attr name="TextColor" format="color" />-->
+        <!--<attr name="BackGround" format="color" />-->
+        <!--<attr name="psdType" format="enum">-->
+            <!--<enum name="weChat" value="0" />-->
+            <!--<enum name="bottomLine" value="1" />-->
+        <!--</attr>-->
+    <!--</declare-styleable>-->
+</resources>
